@@ -19,7 +19,7 @@ You need Android studi
 * [EventBus](https://github.com/greenrobot/EventBus) - EventBus is a publish/subscribe event bus for Android and Java.
 
 
-## Authors
+## Author
 
 * **Rutvik Bhatt** - [Rutvik Bhatt](https://github.com/rutvikbhatt9)
 
